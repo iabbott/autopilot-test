@@ -3,6 +3,6 @@ kind: Kustomization
 resources:
 - ../../base
 images:
-- name: docker.io/kosticodefresh/simple-web-app
+- name: docker.io/kosticodefresh/simple-web-app:3d9b390
   newName: docker.io/kosticodefresh/simple-web-app
   newTag: c88df35
