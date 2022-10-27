@@ -1,7 +1,7 @@
 {
   "appName": "demoapp",
   "userGivenName": "demoapp",
-  "destNamespace": "default",
+  "destNamespace": "qa",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "apps/demoapp/overlays/staging",
   "srcRepoURL": "https://github.com/iabbott/autopilot-test.git",
